@@ -1,0 +1,30 @@
+h1, h2, h3{
+    color:rgb(238, 165, 220)
+
+}
+
+p{
+    font-family: 'Lucia-sans', sans-serif;
+
+}
+
+header, footer{
+    border-style: solid;
+    border-color: rgb(234, 134, 209);
+}
+
+nav {
+    border-style:solid;
+    border-color:rgb(182, 186, 226)
+}
+
+main {
+    border-style: solid;
+    border-color: rgb(255, 182, 193);
+}
+
+
+section {
+    border-style: solid;
+    border-color: rgb(255, 228, 225);
+}
