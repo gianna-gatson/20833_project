@@ -18,8 +18,8 @@ body {
 
 /* At the top of your CSS, define your colors */
 :root {
-    --primary-color: #bd2d13;      /* TCU Purple */
-    --secondary-color: #9b1313;    /* Light Purple */
+    --primary-color: #bd2d13;      /* saltburn theme colors*/
+    --secondary-color: #9b1313;    /* saltburn theme colors*/
     --accent-color: #fbc931;       /* Gold accent */
     --text-color: #333;            /* Dark gray for text */
     --bg-color: #f4f4f4;           /* Light background */
